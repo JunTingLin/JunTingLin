@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunTingLin)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunTingLin&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunTingLin&layout=compact)
 
 <!--
