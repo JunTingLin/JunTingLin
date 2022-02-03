@@ -1,4 +1,12 @@
 ### Hi there 👋
+My name is Jun Ting, study at NCU
+<br>
+Visit my personal website
+https://juntinglin.github.io/resume/
+
+![](https://img.shields.io/badge/license-java_OCA-green)
+![](https://img.shields.io/badge/license-java_OCP-green)
+<br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunTingLin&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunTingLin&layout=compact)
 
