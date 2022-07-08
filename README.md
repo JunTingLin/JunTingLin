@@ -6,9 +6,18 @@ https://juntinglin.github.io/resume/
 
 ![](https://img.shields.io/badge/license-java_OCA-green)
 ![](https://img.shields.io/badge/license-java_OCP-green)
+![](https://img.shields.io/badge/license-JavaEE%20Web-blue)
+
 <br>
+
+<img width="50%" alt="Oracle Certificate" src="https://user-images.githubusercontent.com/92431095/178016604-f19e6fc6-0b74-455b-bc7b-a6a557849701.png">
+
+<br>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JunTingLin&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunTingLin&layout=compact)
+
+
 
 
 <!--
