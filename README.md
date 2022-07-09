@@ -2,7 +2,7 @@
 My name is Jun Ting, study at NCU
 <br>
 Visit my personal website
-https://juntinglin.github.io/resume/
+https://junting.tech/resume
 
 ![](https://img.shields.io/badge/license-java_OCA-green)
 ![](https://img.shields.io/badge/license-java_OCP-green)
