@@ -3,6 +3,7 @@ My name is Jun Ting, study at NCU
 <br>
 Visit my personal website
 https://junting.tech/resume
+
 *This domain is temporarily used for other purposes, and personal blogs are temporarily closed*
 
 ![](https://img.shields.io/badge/license-java_OCA-green)
