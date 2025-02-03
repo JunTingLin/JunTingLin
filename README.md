@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 I'm Jun-Ting Lin林俊霆. 
-I'm currently pursuing my master's degree at the [GINMNTU](https://www.inm.ntu.edu.tw/) @ [NTU](https://www.ntu.edu.tw/) (國立台灣大學 資訊網路與多媒體研究所).
+I'm currently pursuing my master's degree at the [GINM](https://www.inm.ntu.edu.tw/) @ [NTU](https://www.ntu.edu.tw/) (國立台灣大學 資訊網路與多媒體研究所).
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/junting-lin-367339247) 
