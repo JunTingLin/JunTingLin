@@ -1,16 +1,13 @@
+<div align="center">
+
 ### Hi there 👋
-I'm Jun-Ting Lin. 
-I'm currently pursuing my master's degree at the Graduate Institute of Networking and Multimedia, National Taiwan University (國立台灣大學 資訊網路與多媒體研究所).
-
-🌐 Visit my personal website: [https://junting.info/resume](https://junting.info/resume) ~~ Under modification...coming online soon
+I'm Jun-Ting Lin林俊霆. 
+I'm currently pursuing my master's degree at the [GINMNTU](https://www.inm.ntu.edu.tw/) @ [NTU](https://www.ntu.edu.tw/) (國立台灣大學 資訊網路與多媒體研究所).
 
 
-![](https://img.shields.io/badge/license-Java_OCA-green)
-![](https://img.shields.io/badge/license-Java_OCP-green)
-![](https://img.shields.io/badge/license-JavaEE%20Web-green)
-![](https://img.shields.io/badge/license-CCP-blue)
-
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/junting-lin-367339247) 
+[![Resume](https://img.shields.io/badge/resume-DB4D6D?style=for-the-badge)](https://junting.info/)
+[![Mail](https://img.shields.io/badge/mail-376B6D?style=for-the-badge)](mailto:support@junting.info)
 
 
 
